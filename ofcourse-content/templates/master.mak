@@ -44,7 +44,7 @@
           <li><a href="/assignments">Assignments</a></li>
           <li><a href="/instructor">Instructor</a></li>
           <li><a href="/participants">Participants</a></li>
-          <li><a target="_blank" href="http://webchat.freenode.net/?&amp;channels=rit-foss">Instant IRC</a></li>
+          <li><a target="_blank" href="https://webchat.freenode.net/?&amp;channels=rit-foss">Instant IRC</a></li>
         </ul>
       </div><!--/.nav-collapse -->
     </nav>
