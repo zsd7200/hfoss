@@ -2,14 +2,14 @@ course:
     name: HFOSS
     desc: The RIT Humanitarian Free/Open Source Software Development Course
     place: RIT
-    start: 2018-01-17
-    end: 2018-04-30
-    blog_start: 2018-01-21
-    blog_end: 2018-04-29
+    start: 2019-01-14
+    end: 2018-05-01
+    blog_start: 2018-01-20
+    blog_end: 2018-04-21
     times: Mon,Wed,Fri 9:00AM - 9:55AM
-    course: IGME582.01.2175
-    location: Golisano Hall (GOL)-2350
-    final: TBD, 6:30PM-7:45pm, GOL-2350
+    course: IGME582.01.2185
+    location: Magic Spell Studios (MSS)-2175
+    final: 8:00-10:30am 2018-05-01 MSS-2175
     repo: https://github.com/ritjoe/hfoss
     public_url: https://hfoss.rocfoss.org/
 
@@ -22,7 +22,7 @@ instructor:
     twitter: None
     office:
         location: GOL-2500
-        hours: Wednesday 4:15-5:15pm
+        hours: Tuesday 4:45-6:15pm or by appointment
     links:
         blog: http://deejoe.etrumeus.com/update
         linkedin: None
