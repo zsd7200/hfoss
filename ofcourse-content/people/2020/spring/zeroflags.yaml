@@ -1,12 +1,9 @@
-# The name does *not* need to be your full legal name, but will be used as your
-# display name throughout the class web site. It can be a nickname or just your
-# first name if you like.
 name: Dennis
-blog: https://medium.com/@spoooky
-feed: https://medium.com/@spoooky
+blog: https://zeroflagsblogs.wordpress.com/
+feed: https://zeroflagsblogs.wordpress.com/feed/
 forges:
   - https://github.com/DennisSSDev
 irc: zeroflags
 rit_dce: dxs4043
 hw:
-  firstflight: https://medium.com/@spoooky/my-journey-in-foss-begins-here-2ce368776b3f
+  firstflight: https://zeroflagsblogs.wordpress.com/2020/01/22/first-flight/
