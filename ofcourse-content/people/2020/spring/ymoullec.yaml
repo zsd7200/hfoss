@@ -1,9 +1,12 @@
 name: ymoullec
 blog: https://ymoullec.github.io/
 feed: https://ymoullec.github.io/feed
+email: ylm8490@rit.edu
+major: CSCI
 forges:
   - github: https://github.com/ymoullec
 irc: ymoullec
 rit_dce: ylm8490
+bio: French exchange student studying computer science at RIT for the 2020 Spring semester.
 hw:
   firstflight: https://ymoullec.github.io/assignment/2020/01/15/first-flight.html
