@@ -1,0 +1,12 @@
+# The name does *not* need to be your full legal name, but will be used as your
+# display name throughout the class web site. It can be a nickname or just your
+# first name if you like.
+name: Zack Dunham
+blog: https://zsd-foss.blogspot.com/
+feed: https://zsd-foss.blogspot.com/feeds/posts/default?alt=rss
+forges:
+  - https://github.com/zsd7200
+irc: zsd7200
+rit_dce: zsd7200
+hw:
+  firstflight: https://zsd-foss.blogspot.com/2020/01/first-flight-post.html
