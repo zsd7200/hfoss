@@ -5,7 +5,7 @@ name: Cobey A
 blog: https://cobeyhfoss.wordpress.com/
 feed: https://cobeyhfoss.wordpress.com/feed/
 forges:
-  - http://fsf.org
+  - https://github.com/cja1093
 irc: Cobey A
 rit_dce: cja1093
 hw:
