@@ -2,8 +2,8 @@
 # display name throughout the class web site. It can be a nickname or just your
 # first name if you like.
 name: Cobey A
-blog: http://wordpress.com
-feed: https://cobeyhfoss.wordpress.com/
+blog: https://cobeyhfoss.wordpress.com/
+feed: https://cobeyhfoss.wordpress.com/feed/
 forges:
   - http://fsf.org
 irc: Cobey A
