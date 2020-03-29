@@ -1,0 +1,23 @@
+name: ymoullec
+blog: https://ymoullec.github.io/
+feed: https://ymoullec.github.io/feed
+email: ylm8490@rit.edu
+major: CSCI
+forges:
+  - https://github.com/ymoullec
+irc: ymoullec
+rit_dce: ylm8490
+bio: French exchange student studying computer science at RIT for the 2020 Spring semester.
+hw:
+  firstflight: https://ymoullec.github.io/assignment/2020/01/15/first-flight.html
+  blog02: https://ymoullec.github.io/assignment/2020/01/27/blog-post-2.html
+  blog03: https://ymoullec.github.io/assignment/literature-review/2020/02/02/lit-review-1.html
+  litreview1: https://ymoullec.github.io/assignment/literature-review/2020/02/02/lit-review-1.html
+  blog04: https://ymoullec.github.io/assignment/2020/02/10/blog-post-4.html
+  litreview2: https://ymoullec.github.io/assignment/literature-review/2020/02/18/lit-review2.html
+  blog05: https://ymoullec.github.io/assignment/literature-review/2020/02/18/lit-review2.html
+  bugfix: https://ymoullec.github.io/assignment/2020/02/25/blog-post-6.html
+  blog06: https://ymoullec.github.io/assignment/2020/02/25/blog-post-6.html
+  blog07: https://ymoullec.github.io/assignment/2020/03/03/blog-post-7.html
+  quiz1: https://ymoullec.github.io/in-class-assignment/2020/03/04/quiz-1.html
+  commarchteam: https://jrtechs.net/open-source/community-architecture-proposal

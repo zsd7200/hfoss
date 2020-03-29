@@ -1,0 +1,26 @@
+name: Katie Volz
+blog: https://blog.iggyvolz.com/
+feed: https://blog.iggyvolz.com/?feed=rss2
+forges:
+  - https://github.com/iggyvolz
+  - https://gitea.iggyvolz.com
+irc: iggyvolz
+rit_dce: rjv8806
+hw:
+  firstflight: https://blog.iggyvolz.com/?p=8
+  blog02: https://blog.iggyvolz.com/?p=12
+  blog03: https://blog.iggyvolz.com/?p=14
+  litreview1: https://blog.iggyvolz.com/?p=14
+  blog04: https://iggyvolz.blogspot.com/2020/02/windows-subsystem-for-linux-on.html
+  litreview2: https://iggyvolz.blogspot.com/2020/02/literature-review-2.html
+  blog05: https://iggyvolz.blogspot.com/2020/02/literature-review-2.html
+  blog06: https://blog.iggyvolz.com/?p=17
+  blog07: https://blog.iggyvolz.com/?p=19
+  # blog08:
+  # blog09:
+  # blog10:
+  # blog11:
+  # blog12:
+  bugfix: https://blog.iggyvolz.com/?p=19
+  # finalpreso:
+  quiz1: https://blog.iggyvolz.com/?p=21
